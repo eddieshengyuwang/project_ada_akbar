@@ -23,9 +23,10 @@ What does the black market or organized crime play in relation to the Panama Pap
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
-https://www.kaggle.com/ash316/forbes-top-2000-companies
-Panama Papers dataframe on the cluster
-The panama paper data frame provided is already pretty clean. 4 different csv files are logically connected by a link file. This would allowed a easy making of the links between the single dataframe and query solving. Following one possible research question it is possible incorporate more data for each country mentioned in the papers, like Gini index or GDP. Data size seems not too critical; during the first queries it would be decide of to use spark or not.
+ - Forbes Top 2000 Companies
+ - Panama Papers dataframe on the cluster
+ 
+The panama paper data frame provided is already pretty clean. 4 different csv files are logically connected by a link file. This would allowed a easy making of the links between the single dataframe and query solving. CSV extension can be easly handle with different python libraries. Following one possible research question it is possible incorporate more data for each country mentioned in the papers, like Gini index or GDP. Data size seems not too critical; during the first queries it would be decide of to use spark or not.
 
 
 # A list of internal milestones up until project milestone 2
