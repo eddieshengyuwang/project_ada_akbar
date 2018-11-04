@@ -8,16 +8,14 @@ The Panama Papers are the biggest leak of data in recent history. They are still
 
 # Research questions
 A list of research questions you would like to address during the project. 
-
-A list of research questions you would like to address during the project.
 We have a bunch of research questions we would like to investigate through this project. Below are starter questions which we may augment/delete/add to as the project progresses:
-Is there a correlation between country statistics such as Gini coefficient or HDI and the number of country representatives in the Panama Papers?
-What are the roles of Fortune 500 companies in the papers?
-How do the timeline of leaked papers look like over the years? Are peaks/valleys associated with certain events at the time?
-What does the map of the biggest tax havens in the world look like?
-Which countries are most heavily involved with the leaked papers?
-What is the estimated amount of “lost capital” in a country due to tax evasion of the biggest companies in that country? How do the amounts compare?
-What does the black market or organized crime play in relation to the Panama Papers?
+ - Is there a correlation between country statistics such as Gini coefficient or HDI and the number of country representatives in the Panama Papers?
+ - What are the roles of Fortune 500 companies in the papers?
+ - How do the timeline of leaked papers look like over the years? Are peaks/valleys associated with certain events at the time?
+ - What does the map of the biggest tax havens in the world look like?
+ - Which countries are most heavily involved with the leaked papers?
+ - What is the estimated amount of “lost capital” in a country due to tax evasion of the biggest companies in that country? How do the amounts compare?
+ - What does the black market or organized crime play in relation to the Panama Papers?
 
 
 # Dataset
@@ -32,9 +30,9 @@ The panama paper data frame provided is already pretty clean. 4 different csv fi
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
--Deadline 1, 10 Nov: Merging Panama Paper sources with top 2000 companies and carry out descriptive statistics on number of companies that have gone offshore during the years, distribution of companies listed per country, checking how many of the top 2000 companies listed are in the Panama Papers
--Deadline 2, 17 Nov: Select the top companies present in the Panama Papers and draft a model to estimate the amount if resources they take out from their countries based on their profit/ market-share. In this way the pipeline will be completed
--Deadline 3, 25 Nov: Investigate the possibility of making a network of biggest intermediators using the nodes provided in the data using a graph database
+ - Deadline 1, 10 Nov: Merging Panama Paper sources with top 2000 companies and carry out descriptive statistics on number of companies that have gone offshore during the years, distribution of companies listed per country, checking how many of the top 2000 companies listed are in the Panama Papers
+ - Deadline 2, 17 Nov: Select the top companies present in the Panama Papers and draft a model to estimate the amount if resources they take out from their countries based on their profit/ market-share. In this way the pipeline will be completed
+ - Deadline 3, 25 Nov: Investigate the possibility of making a network of biggest intermediators using the nodes provided in the data using a graph database
 
 
 # Questions for TAa
