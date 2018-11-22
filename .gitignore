@@ -4,3 +4,7 @@ data/panama_papers.nodes.address.csv
 data/panama_papers.nodes.entity.csv
 data/panama_papers.nodes.intermediary.csv
 data/panama_papers.nodes.officer.csv
+data/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_10224851.csv
+data/Metadata_Country_API_NY.GDP.PCAP.CD_DS2_en_csv_v2_10224851.csv
+data/Metadata_Indicator_API_NY.GDP.PCAP.CD_DS2_en_csv_v2_10224851.csv
+data/Human development index (HDI).csv
