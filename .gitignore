@@ -1,0 +1,6 @@
+
+data/panama_papers.edges.csv
+data/panama_papers.nodes.address.csv
+data/panama_papers.nodes.entity.csv
+data/panama_papers.nodes.intermediary.csv
+data/panama_papers.nodes.officer.csv
