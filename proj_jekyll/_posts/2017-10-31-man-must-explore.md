@@ -4,12 +4,57 @@ title:  "PANAMA PAPERS"
 subtitle: "An exploration"
 background: '/img/posts/06.jpg'
 ---
+<style>
+  .df_jc{
+    float:left;
+  }
+  .jc{
+    display:block;
+    margin-left: auto;
+    margin-rightL auto
+  }
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+</style>
 
 ## Introduction
 
-The Panama Papers are leaked documents that detail financial and attorney–client information for offshore entities. The documents were created by, and taken from, Panamanian law firm and corporate service provider Mossack Fonseca, and were leaked in 2015 by an anonymous source.
+In 2015, the world was shook from the news over a leaked corpus of 11.5 million financial and attorney-client documents relating to over 200,000 offshore entities called the **Panama Papers**. These documents were created by, and taken from, Panamanian law firm and corporate service provider Mossack Fonseca, and were leaked by an anonymous source.
 
-As shown by the exploratory analysis, the entity document of the Panama Papers is very interesting: it provides a macroscopic view of how many entities per countries are involved in settling companies offshore or funds offshore. The reasons behind making an offshore company are multiple: setting a company offshore is not a crime, but it can be an indication that the business condition in the home country are not always favorable from a privacy point of view, from a bureaucratic point of view and from a tax point of view. Hence it is crucial to understand why entities decide to set their companies offshore and what is the consequence on the home country from a wealth distribution point of view. To carry out this investigation a set of questions which provide a guideline for this analysis are going to be answered.
+## Why should I care?
+
+Although Panama is miles away from EPFL, the implications from the leaked papers can relate very much to people here in Switzerland and all over the world. In fact Switzerland ranks first in the number of entities set up in offshore jurisdictions at 37911. While setting a company offshore is not a crime, there are illegitimate (and legitimate) implications that drive companies to do so. For instance, business conditions in the home country may be unfavorable from a privacy, bureaucratic, and tax point of view. Despite the fact that we cannot *prove* that companies set up offshore entities for illegal purposes, like tax evasion, it is safe to infer that it is a strong possibility, as even the anonymous leaker "John Doe" stated his intentions were based on growing income inequality and "scale of injustices".
+
+## Our purpose
+
+It is important to dive deeper into the massive corpus of leaked documents [provided here](https://offshoreleaks.icij.org/) to better understand the reasoning why entities choose to set companies offshore so that future cases can be avoided. Furthermore, we will explore the consequences that offshore companies have on home countries from a wealth distribution point of view so that readers can really understand the order of magnitude that setting up offshore companies have on their country.
+
+## A world map overview
+
+Companies from a home *country* set up entities in various *jurisdictions* (offshore areas). Thus, we first investigate which *jurisdictions* hold the most entities and which home *countries* set up the most entities offshore.
+<iframe src="/proj_jekyll/assets/jurisdictions_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="440"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+<iframe src="/proj_jekyll/assets/country_map.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="440"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+To carry out this investigation a set of questions which provide a guideline for this analysis are going to be answered.
+
+As shown by the exploratory analysis, the entity document of the Panama Papers is very interesting: it provides a macroscopic view of how many entities per countries are involved in settling companies offshore or funds offshore.
 
 <iframe src="/proj_jekyll/assets/developpingcountries.html"
     sandbox="allow-same-origin allow-scripts"
