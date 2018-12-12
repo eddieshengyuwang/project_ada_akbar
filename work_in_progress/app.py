@@ -8,8 +8,6 @@ from bokeh.models import ColumnDataSource, HoverTool
 from bokeh.layouts import gridplot, widgetbox
 from bokeh.models.widgets import DataTable, TableColumn
 import pandas as pd
-import os
-import folium
 import numpy as np
 from geopy.geocoders import Nominatim
 from math import pi
@@ -43,7 +41,7 @@ corp_tax_rate_df = pd.read_csv(DATA_FOLDER + corp_tax_rate)[['Location', '2015']
 business_country_df = pd.read_csv(DATA_FOLDER + business_country)
 
 # merging corp tax table with GDP table
-m1 = corp_tax_rate_df.merge(GDP_tot_raw_df, left_on='Location', 
+m1 = corp_tax_rate_df.merge(GDP_tot_raw_df, left_on='Location',
                             right_on='Country Name', how='inner')
 
 # merging m1 with number of businesses table
@@ -95,11 +93,11 @@ def make_plot(src, df):
         d[j] = countries[i]
 
     yvals1 = list(df['Corporate Tax Revenue'])
-    p.vbar(x=ind, width=width, top=yvals1, bottom=0, 
+    p.vbar(x=ind, width=width, top=yvals1, bottom=0,
            color='red', legend='Corporate Tax Revenue')
 
     yvals2 = list(df['Potential Real Corporate Tax Revenue'])
-    p.vbar(x=ind+width, width=width, top=yvals2, 
+    p.vbar(x=ind+width, width=width, top=yvals2,
            color='blue', legend='Potential Real Corporate Tax Revenue')
 
     p.xaxis.axis_label = 'Countries'
