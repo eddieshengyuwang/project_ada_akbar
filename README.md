@@ -41,19 +41,18 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 The discussion about the data size and format is carried out inside the notebook.
 
-
-# A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
-
- - Deadline 3, 25 Nov: Present milestone 2
- - Deadline 4, 8 Dec: Analysis to understand if income inequality is influenced by dicrepancy between ease of business between tax haven countries and non tax havens ones.
+# Group memebers contributions 
+ - **Gianluca Mancini:** Dataframe preparation, Corporate Tax Rate (all subsections) and Various descriptions.
+ - **Tullio Nutta:** Imports, Juristiction and Country counts, GDP data integration, Time dependence between entities presence in Panama Papers, economic indicators and GINI coefficient and Various descriptions.
+ - **Eddie Wang:** Handling data size, Understanding the data, Data cleaning, Juristiction and Country counts map visualization, OECD Corporate Tax: Amounts Lost and Various descriptions.
 
 # Libraries required
- - Numpy 1.14.3
- - Pandas 0.23.0
- - Seaborn 0.8.1
- - Scipy 1.1.0
- - Matplotlib.pyplot 2.2.2
- - Bokeh 0.12.16
+ - Numpy - 1.14.3
+ - Pandas - 0.23.0
+ - Seaborn - 0.8.1
+ - Scipy - 1.1.0
+ - Matplotlib.pyplot - 2.2.2
+ - Bokeh - 0.12.16
+ - Geopy - 1.17.0
 
 
