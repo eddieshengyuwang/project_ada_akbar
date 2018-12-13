@@ -29,13 +29,17 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
  - Panama Papers dataframe on the cluster
  
- All the following are downloaded from [World Bank Dataset](https://data.worldbank.org)
+ The following are downloaded from [World Bank Dataset](https://data.worldbank.org)
  - GINI coefficient per country
  - GDP per country
  - GDP per capita per country
  - Time to start a business per country
  - Time spent by business in government regulation per country
  - Tax rate per country 
+ 
+ The following are downloaded from [Organisation for Economic Co-operation and Development (OECD) database](https://data.oecd.org/)
+ - Corporate tax rate per country from 2000
+ - Number of businesses per country
 
 The discussion about the data size and format is carried out inside the notebook.
 
