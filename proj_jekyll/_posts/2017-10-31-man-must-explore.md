@@ -94,6 +94,7 @@ PLACE FIG
 In conclusion it is clear that corporate tax is definitely a factor influencing entities to go offshore, but in different ways according to the set of countries considered. It seems that entities in the major economies are trying to escape high corporate taxation levels. While it seems that lower taxation levels in developing countries implies a higher number of companies set offshore. However it is hard to make inference statements since the correlations are often not strong enough and correlation doesn't imply causation.
  
  Hence corporate tax rate is not the only determinant for entities to go offshore: in fact it was also concluded that corporate tax rate could actually be a proxy variable for other covariates. For instance it is clear that tax havens present ideal conditions for entities to set up offshore companies: additional research should be performed in finding what are theses bureaucratic and economical factors, but the lack of transparency of these countries makes it extremely to find useful data. 
+ 
 ## What consequences do corporations starting offshore entities have on their home country?
 
 ### Corporate tax revenue
