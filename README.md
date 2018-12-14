@@ -44,9 +44,13 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 The discussion about the data size and format is carried out inside the notebook.
 
 # Group memebers contributions 
- - **Gianluca Mancini:** Dataframe preparation, Corporate Tax Rate (all subsections) and Various descriptions.
+ - **Gianluca Mancini:** Dataframe preparation, Corporate Tax Rate (all subsections) and Various descriptions. Data story writing.
  - **Tullio Nutta:** Imports, Juristiction and Country counts, GDP data integration, Time dependence between entities presence in Panama Papers, economic indicators and GINI coefficient and Various descriptions.
- - **Eddie Wang:** Handling data size, Understanding the data, Data cleaning, Juristiction and Country counts map visualization, OECD Corporate Tax: Amounts Lost and Various descriptions.
+ - **Eddie Wang:** Handling data size, Understanding the data, Data cleaning, Juristiction and Country counts map visualization, OECD Corporate Tax: Amounts Lost and Various descriptions. Data story coding.
+ 
+### Final Presentation
+- *Presentation*: Gianluca Mancini 
+- *Poster*: Tullio Nutta
 
 # Libraries required
  - Numpy - 1.14.3
