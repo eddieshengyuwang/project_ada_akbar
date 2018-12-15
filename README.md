@@ -1,5 +1,7 @@
 # THE PANAMA PAPERS
 
+## Link to data story
+The data story can be found at [this link](https://ada-akbar.github.io/2018/12/13/panama-papers.html).
 
 # Abstract
 
@@ -46,7 +48,7 @@ The discussion about the data size and format is carried out inside the notebook
  - **Tullio Nutta:** Imports, Juristiction and Country counts, GDP data integration, Time dependence between entities presence in Panama Papers, economic indicators and GINI coefficient and Various descriptions.
  - **Eddie Wang:** Handling data size, Understanding the data, Data cleaning, Juristiction and Country counts map visualization, OECD Corporate Tax: Amounts Lost and Various descriptions. Data story coding.
  
-### Final Presentation
+### Final presentation
 - *Presentation*: Gianluca Mancini 
 - *Poster*: Tullio Nutta
 
