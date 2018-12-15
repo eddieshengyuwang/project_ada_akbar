@@ -44,7 +44,7 @@ The discussion about the data size and format is carried out inside the notebook
 
 # Group members contributions 
  - **Gianluca Mancini:** Data frame preparation, Tax Rate (all subsections) and Various descriptions. Data story writing.
- - **Tullio Nutta:** Imports, Jurisdictions and Country counts, GDP data integration, Time dependence between entities presence in Panama Papers, economic indicators and GINI coefficient and Various descriptions.
+ - **Tullio Nutta:** Imports, Jurisdictions and Country counts, GDP data integration, Time dependence between entities presence in Panama Papers and GINI coefficient and Various descriptions.
  - **Eddie Wang:** Handling data size, Understanding the data, Data cleaning, Jurisdictions and Country counts map visualization, OECD Corporate Tax: Amounts Lost and Various descriptions. Data story coding.
  
 ### Final presentation
