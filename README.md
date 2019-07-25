@@ -1,7 +1,9 @@
 # THE PANAMA PAPERS
 
-## Link to data story
-The data story can be found at [this link](https://ada-akbar.github.io/2018/12/13/panama-papers.html).
+## Link to notebook and data story
+The detailed Jupyter notebook featuring commentary and the code for cleaning, analysis, and visualizations can be found at [this link](https://nbviewer.jupyter.org/github/eddieshengyuwang/project_ada_akbar/blob/master/main.ipynb). 
+
+The more concise data story can be found at [this link](https://ada-akbar.github.io/2018/12/13/panama-papers.html). 
 
 # Abstract
 
